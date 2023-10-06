@@ -1,0 +1,62 @@
+body {
+    background-color: rgb(148, 18, 18);
+}
+ul>li {
+    display: inline;
+}
+.link {
+    text-decoration: none;
+    font-size: xx-large;
+    font-weight: 600;
+    margin-left: 45px;
+    color: rgb(104, 101, 101)
+}
+nav {
+    border-bottom: 3px solid rgb(104, 101, 101);
+    text-align: center;
+}
+header {
+    background-image: url('https://media.tag24.de/720x480/t/1/t1x05g9gskkaxbesiijg79lmae2cjk50.jpg');
+    height: 150px;
+    background-size: cover;
+    width: auto;
+    border-radius: 11px;
+    padding-bottom: 250px;
+    text-align: center;
+    background-repeat: no-repeat, repeat;
+}
+section {
+    text-align: center;
+}
+#pitret {
+    border-radius: 50px;
+    margin-top: 20px;
+    border: 5px solid black;
+    height: 250px;
+    width: auto;
+}
+
+main {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+article {
+    display: inline-block;
+    max-width: 65%
+}
+
+aside {
+    border-left: 2px solid rgb(104, 101, 101);
+    margin-left: 75px;
+    display: inline-block;
+}
+footer {
+    border-top: 2px solid rgb(104, 101, 101);
+    text-align: center;
+}
+#copy {
+    font-size: xx-large;
+    font-weight: 900;
+}
+
